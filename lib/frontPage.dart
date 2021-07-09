@@ -42,7 +42,6 @@ class FrontPage extends StatelessWidget {
             minWidth: 800,
             maxWidth: 1500,
             minHeight: MediaQuery.of(context).size.height * 0.8,
-            maxHeight: MediaQuery.of(context).size.height * 0.9,
           ),
           child: Column(
             children: [
@@ -57,14 +56,6 @@ class FrontPage extends StatelessWidget {
                 desc: "Pursuing a Bachelor of Information Science at ICMC - "
                     "USP, the Institute of Mathematics and Computer Science at "
                     "São Carlos, currently in the fourth period.",
-              ),
-              titleAndDesc(
-                title: "Work",
-                desc: "Currently I'm a Operations Analyst at U-Get, a startup"
-                    " in the computer vision industry. My main activities are"
-                    " managing the operations of 50 new machines to the market,"
-                    " develop a app that's the core of the setup and maintenance"
-                    " of all machines of the company.",
               ),
               titleAndDesc(
                 title: "Work",
