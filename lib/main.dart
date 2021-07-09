@@ -3,6 +3,7 @@ import 'package:personal_website/frontPage.dart';
 
 void main() {
   runApp(MaterialApp(
+    title: 'Baca',
       theme: ThemeData(fontFamily: 'FiraCode'),
       home: FrontPage()));
 }
