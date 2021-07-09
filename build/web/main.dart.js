@@ -43980,7 +43980,7 @@ $S:32}
 L.vZ.prototype={
 S:function(a,b){var s=null,r=P.a_Z(40,45,56,1),q=P.a_Z(227,169,107,1),p=t.w,o=b.a8(p).f
 p=b.a8(p).f
-return new M.pV(T.Xk(M.Xq(s,new T.lw(C.lx,new T.v_(C.U,C.hp,C.hq,C.cr,s,C.iC,s,H.a([L.a1K("Hi, I'm Baca",A.mo(s,s,s,s,s,s,s,s,s,s,s,30,s,C.be,s,s,!0,s,s,s,s,s,s,s),C.N),L.a1K("A undergrad student at USP, pursuing a Bachelor of Information Systems, currently in the fourth period.\noi giu como a senhora esta hein \n testando gab",s,s)],t.e),s),s),q,new S.b1(800,1500,o.a.b*0.8,p.a.b*0.9),s,new V.bk(40,40,40,40),s,s),s,s),r,s)}}
+return new M.pV(T.Xk(M.Xq(s,new T.lw(C.lx,new T.v_(C.U,C.hp,C.hq,C.cr,s,C.iC,s,H.a([L.a1K("Hi, I'm Baca",A.mo(s,s,s,s,s,s,s,s,s,s,s,30,s,C.be,s,s,!0,s,s,s,s,s,s,s),C.N),L.a1K("A undergrad student at USP, pursuing a Bachelor of Information Systems, currently in the fourth period.\noi giu como a senhora esta hein \n testando gab\nsalve cigas meo",s,s)],t.e),s),s),q,new S.b1(800,1500,o.a.b*0.8,p.a.b*0.9),s,new V.bk(40,40,40,40),s,s),s,s),r,s)}}
 E.h0.prototype={
 gl:function(a){return this.b},
 h:function(a,b){if(b>=this.b)throw H.b(P.b7(b,this,null,null,null))
