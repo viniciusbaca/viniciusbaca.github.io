@@ -3,6 +3,33 @@ import 'package:flutter/material.dart';
 class FrontPage extends StatelessWidget {
   const FrontPage({Key? key}) : super(key: key);
 
+  Widget titleAndDesc({
+    String title = '',
+    String desc = '',
+    bool greeter = false,
+  }) {
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(25, 15, 25, 5),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            title,
+            textAlign: TextAlign.start,
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
+              fontSize: greeter ? 30 : 25,
+            ),
+          ),
+          Text(
+            desc,
+            style: TextStyle(fontSize: greeter ? 20 : 18),
+          ),
+        ],
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -17,25 +44,37 @@ class FrontPage extends StatelessWidget {
             minHeight: MediaQuery.of(context).size.height * 0.8,
             maxHeight: MediaQuery.of(context).size.height * 0.9,
           ),
-          child: Padding(
-            padding: const EdgeInsets.all(25.0),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  "Hi, I'm Baca",
-                  textAlign: TextAlign.start,
-                  style: TextStyle(
-                    fontWeight: FontWeight.bold,
-                    fontSize: 30,
-                  ),
-                ),
-                Text("A undergrad student at USP, pursuing a Bachelor "
-                    "of Information Systems, currently in the fourth period.\n"
-                    "oi giu como a senhora esta hein \n testando gab\n"
-                    "salve cigas meo")
-              ],
-            ),
+          child: Column(
+            children: [
+              titleAndDesc(
+                title: "Hi, I'm Baca",
+                desc: "A undergrad student at USP, mainly interested in "
+                    "technology and its applications into business strategy.",
+                greeter: true,
+              ),
+              titleAndDesc(
+                title: "Education",
+                desc: "Pursuing a Bachelor of Information Science at ICMC - "
+                    "USP, the Institute of Mathematics and Computer Science at "
+                    "São Carlos, currently in the fourth period.",
+              ),
+              titleAndDesc(
+                title: "Work",
+                desc: "Currently I'm a Operations Analyst at U-Get, a startup"
+                    " in the computer vision industry. My main activities are"
+                    " managing the operations of 50 new machines to the market,"
+                    " develop a app that's the core of the setup and maintenance"
+                    " of all machines of the company.",
+              ),
+              titleAndDesc(
+                title: "Work",
+                desc: "Currently I'm a Operations Analyst at U-Get, a startup"
+                    " in the computer vision industry. My main activities are"
+                    " managing the operations of 50 new machines to the market,"
+                    " develop a app that's the core of the setup and maintenance"
+                    " of all machines of the company.",
+              ),
+            ],
           ),
         ),
       ),
