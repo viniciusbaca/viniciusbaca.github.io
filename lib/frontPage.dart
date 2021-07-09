@@ -63,7 +63,7 @@ class FrontPage extends StatelessWidget {
                     " in the computer vision industry. My main activities are"
                     " managing the operations of 50 new machines to the market,"
                     " develop a app that's the core of the setup and maintenance"
-                    " of all machines of the company.",
+                    " of all machines of the company. testando build",
               ),
             ],
           ),
