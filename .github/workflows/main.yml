@@ -7,7 +7,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
         with:
-         clean: 'false'
+         clean: false
         
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
