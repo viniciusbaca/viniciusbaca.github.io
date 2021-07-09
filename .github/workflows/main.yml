@@ -6,11 +6,9 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
-        with:
-         clean: false
         
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
-          branch: main
+          branch: build
           folder: build/web
