@@ -32,7 +32,7 @@ class FrontPage extends StatelessWidget {
                 ),
                 Text("A undergrad student at USP, pursuing a Bachelor "
                     "of Information Systems, currently in the fourth period.\n"
-                    "oi giu como a senhora esta hein")
+                    "oi giu como a senhora esta hein \n testando gab")
               ],
             ),
           ),
