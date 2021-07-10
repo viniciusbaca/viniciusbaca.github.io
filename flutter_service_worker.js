@@ -4,19 +4,19 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"version.json": "26135e4be13343012ada35bf6692fcf3",
+"main.dart.js": "5ab84bc2f7a1594a58cb7b0290727ec5",
+"index.html": "4c24158413838536343333b6540b7610",
+"/": "4c24158413838536343333b6540b7610",
+"manifest.json": "eff29b7452551f73d8000ec572e8134c",
 "assets/NOTICES": "f58e9534f8bca923859da3a352f53a52",
-"assets/fonts/FiraCode-Regular.ttf": "d60b1090972c3e6230c555347da880db",
+"assets/FontManifest.json": "b4ab73f04bd5b097b7e62e40352279e9",
 "assets/fonts/FiraCode-Bold.ttf": "01f3d4803613ee9556769509a85dba50",
+"assets/fonts/FiraCode-Regular.ttf": "d60b1090972c3e6230c555347da880db",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/AssetManifest.json": "d8ccabb24834dba1e98fafdb484057d6",
-"assets/FontManifest.json": "b4ab73f04bd5b097b7e62e40352279e9",
-"index.html": "ec4aa2cef429723b5f5b19372fd1f543",
-"/": "ec4aa2cef429723b5f5b19372fd1f543",
-"main.dart.js": "b9a2dd362945e8d11fd23e10d30f4bb1",
-"manifest.json": "eff29b7452551f73d8000ec572e8134c"
+"version.json": "26135e4be13343012ada35bf6692fcf3",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1"
 };
 
 // The application shell files that are downloaded before a service worker can
