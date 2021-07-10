@@ -56,7 +56,7 @@ class FrontPage extends StatelessWidget {
                 ),
                 titleAndDesc(
                   title: "Education",
-                  desc: "Pursuing a Bachelor of Information Science at ICMC - "
+                  desc: "Pursuing a Bachelor of Information Systems at ICMC - "
                       "USP, the Institute of Mathematics and Computer Science at "
                       "São Carlos, currently in the fourth period.",
                 ),
