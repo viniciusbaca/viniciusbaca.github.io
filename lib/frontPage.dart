@@ -95,7 +95,7 @@ class FrontPage extends StatelessWidget {
                       "Language and 'Fluent Python'.\n"
                       "I'm genuinely interested in people development, and"
                       " I'm really grateful for all my friends and colleagues"
-                      " that always gave me support.",
+                      " that always gave me support. testando apex",
                 ),
               ],
             ),
