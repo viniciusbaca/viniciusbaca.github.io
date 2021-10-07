@@ -50,8 +50,8 @@ class FrontPage extends StatelessWidget {
               children: [
                 titleAndDesc(
                   title: "Hi, I'm Baca",
-                  desc: "A undergrad student at USP, mainly interested in "
-                      "technology and its applications into business strategy.",
+                  desc: "A undergrad student at USP, studying to be a professional "
+                        "of the finance industry, having a tech background.",
                   greeter: true,
                 ),
                 titleAndDesc(
@@ -72,13 +72,13 @@ class FrontPage extends StatelessWidget {
                 ),
                 titleAndDesc(
                     title: "Skills",
-                    desc: "My most solid technical skill is in Flutter, which"
+                    desc: /*"My most solid technical skill is in Flutter, which"
                         " I developed a mobile marketplace (https://hort-e.com/)"
                         " to connect rural producers and food stores as the product"
-                        " for a startup I was a Co-Founder."
-                        "Right now I'm studying now more in depth algorithms and"
-                        " data structure, also beginning my studies towards"
-                        " data science, learning Python and performing side"
+                        " for a startup I was a Co-Founder."*/
+                        "Right now I'm starting my study in mathematical finance,"
+                        " corporate finance, and studying more in depth python and"
+                        " data science/scrapping libs. Also performing side"
                         " projects mainly in this ecosystem, such as the Bloomberg"
                         " Hackhathon, where in a great team we developed a ETF"
                         " monitor in the Bloomberg Terminal, so the fund managers"
@@ -93,9 +93,7 @@ class FrontPage extends StatelessWidget {
                       " with Giulia and read books, currently I'm more in "
                       "technical books for fun, such as 'The Rust Programming "
                       "Language and 'Fluent Python'.\n"
-                      "I'm genuinely interested in people development, and"
-                      " I'm really grateful for all my friends and colleagues"
-                      " that always gave me support. testando apex",
+                      "I'm genuinely interested in people development.",
                 ),
               ],
             ),
