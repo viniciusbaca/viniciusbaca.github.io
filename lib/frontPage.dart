@@ -90,7 +90,7 @@ class FrontPage extends StatelessWidget {
                       "In my laptop I have Arch Linux for daily use and Neovim"
                       " as my tool for coding (still a beginner).\n"
                       "In my spare time I enjoy playing with my dog, hang out"
-                      " with Giulia and read books, currently I'm more in "
+                      " with friends and read books, currently I'm more in "
                       "technical books for fun, such as 'The Rust Programming "
                       "Language and 'Fluent Python'.\n"
                       "I'm genuinely interested in people development.",
