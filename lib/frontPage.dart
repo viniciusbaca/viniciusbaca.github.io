@@ -93,7 +93,7 @@ class FrontPage extends StatelessWidget {
                       " with friends and read books, currently I'm more in "
                       "technical books for fun, such as 'The Rust Programming "
                       "Language and 'Fluent Python'.\n"
-                      "I'm genuinely interested in people development.",
+                      //"I'm genuinely interested in people development.",
                 ),
               ],
             ),
