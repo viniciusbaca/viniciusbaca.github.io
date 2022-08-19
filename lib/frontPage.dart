@@ -50,8 +50,8 @@ class FrontPage extends StatelessWidget {
               children: [
                 titleAndDesc(
                   title: "Hi, I'm Baca",
-                  desc: "A undergrad student at USP, studying to be a professional "
-                        "of the finance industry, having a tech background.",
+                  desc: "A undergrad student at USP, studying to work as a"
+                        " finance analyst with a tech background.",
                   greeter: true,
                 ),
                 titleAndDesc(
@@ -65,10 +65,9 @@ class FrontPage extends StatelessWidget {
                   desc: "Currently I'm a Operations Analyst at U-Get, a startup"
                       " in the computer vision industry. My main activities are"
                       " managing the operations of 50 new machines to the market,"
-                      " develop a app that's the core of the setup and maintenance"
-                      " of the machines of the company and I also keep the"
-                      " backoffice activities of the company and talent"
-                      " acquisition.",
+                      " develop a app that's the core of the company operations."
+                      "I also keep the backoffice activities of the company and"
+                      " talent acquisition.",
                 ),
                 titleAndDesc(
                     title: "Skills",
@@ -76,23 +75,22 @@ class FrontPage extends StatelessWidget {
                         " I developed a mobile marketplace (https://hort-e.com/)"
                         " to connect rural producers and food stores as the product"
                         " for a startup I was a Co-Founder."*/
-                        "Right now I'm starting my study in mathematical finance,"
-                        " corporate finance, and studying more in depth python and"
-                        " data science/scrapping libs. Also performing side"
-                        " projects mainly in this ecosystem, such as the Bloomberg"
-                        " Hackhathon, where in a great team we developed a ETF"
-                        " monitor in the Bloomberg Terminal, so the fund managers"
-                        " can gather all the information about any ETF that he "
-                        " will analyze."),
+                        "Right now I'm starting my studies in corporate finance,"
+                        " and more in depth python and data science/scrapping libs."
+                        " Also performing side projects mainly in this ecosystem,"
+                        " such as the Bloomberg Hackhathon, where in a great team"
+                        " we developed a ETF monitor in the Bloomberg Terminal,"
+                        " so the fund managers could gather all the data about any"
+                        " ETF that he may analyze."),
                 titleAndDesc(
                   title: "Interests",
                   desc:
                       "In my laptop I have Arch Linux for daily use and Neovim"
                       " as my tool for coding (still a beginner).\n"
                       "In my spare time I enjoy playing with my dog, hang out"
-                      " with friends and read books, currently I'm more in "
-                      "technical books for fun, such as 'The Rust Programming "
-                      "Language and 'Fluent Python'.\n"
+                      " with friends and read books, currently I'm more in"
+                      " technical books for fun, such as 'The Rust Programming"
+                      " Language and 'Fluent Python'.\n"
                       //"I'm genuinely interested in people development.",
                 ),
               ],
