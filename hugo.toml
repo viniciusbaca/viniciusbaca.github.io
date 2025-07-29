@@ -1,0 +1,9 @@
+baseURL = 'https://viniciusbaca.com/'
+languageCode = 'en-us'
+title = 'Baca site'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
