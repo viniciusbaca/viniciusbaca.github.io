@@ -1,14 +1,14 @@
 baseURL = 'https://viniciusbaca.com/'
 languageCode = 'en-us'
-title = 'luana'
-theme = 'ananke'
+title = 'Vinícius Baca'
+theme = 'typo'
 
 [taxonomies]
 tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "my website for fun"
 
 # Appearance settings
 theme = 'auto'
@@ -16,15 +16,16 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Hey!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+I am a Brazilian/Peruvian software engineer, passionate about hiking, travelling, and recently in 
+aerobics sports. \n
+This is my personal website for fun, feel free to check my .
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+homeCollectionTitle = 'trips'
+homeCollection = 'trips'
 
 # Lists parameters
 paginationSize = 100
@@ -40,15 +41,11 @@ home = "Home"
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
-
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+url = "https://www.linkedin.com/in/viniciusbaca/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/viniciusbaca"
 
 # Main menu pages
 [[params.menu]]
@@ -56,12 +53,12 @@ name = "home"
 url = "/"
 
 [[params.menu]]
-name = "posts"
-url = "/posts"
+name = "trips"
+url = "/trips"
 
 [[params.menu]]
-name = "about"
-url = "/about"
+name = "cv"
+url = "/cv"
 
 # Syntax highlight on code blocks
 [markup]
