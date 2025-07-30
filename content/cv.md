@@ -1,5 +1,5 @@
 ---
-title: "cv"
+title: "resumé"
 description: "Vinícius Baca's CV"
 hideBackToTop: true
 hidePagination: true
