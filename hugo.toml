@@ -18,9 +18,9 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hey!'
 homeIntroContent = """
-I am a Brazilian/Peruvian software engineer, passionate about hiking, travelling, and recently in 
-aerobics sports. \n
-This is my personal website for fun, feel free to check my .
+I am a Brazilian/Peruvian software engineer based in Sao paulo, passionate about hiking, 
+travelling, and recently in triathlon training. \n
+This is my personal website for fun, feel free to check my [trips](/trips) and my [cv](/cv).
 """
 
 # Collection to display on home
@@ -30,7 +30,7 @@ homeCollection = 'trips'
 # Lists parameters
 paginationSize = 100
 listSummaries = true
-listDateFormat = '2 Jan 2006'
+listDateFormat = '2006 Jan 2'
 
 # Breadcrumbs
 [params.breadcrumbs]
