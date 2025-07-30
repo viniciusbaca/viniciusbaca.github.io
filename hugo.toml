@@ -18,7 +18,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hey!'
 homeIntroContent = """
-I am a Brazilian/Peruvian software engineer based in Sao paulo, passionate about hiking, 
+I am a Brazilian/Peruvian software engineer based in Sao Paulo, passionate about hiking, 
 travelling, and recently in triathlon training. \n
 This is my personal website for fun, feel free to check my [trips](/trips) and my [cv](/cv).
 """
@@ -41,7 +41,7 @@ home = "Home"
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/viniciusbaca/"
+url = "https://www.linkedin.com/in/vinicius-baca/"
 
 [[params.social]]
 name = "github"
