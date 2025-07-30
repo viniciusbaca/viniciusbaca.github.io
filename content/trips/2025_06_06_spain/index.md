@@ -14,17 +14,17 @@ showTags: false
 fediverse: "@username@instance.url"
 ---
 
-# Introduction
+## Introduction
 
 I loved barcelona!
-![bunkers](bunkers.webp)
+![bunkers](bunkers.webp#light)
 
 
-# Nightlife 
+## Nightlife 
 
 Nightlife in Barcelona really was something else blablabalbalbalbalbalballbabalbalbla
 
-# Costa Brava 
+## Costa Brava 
 
 I love beaches
-![costa brava](costa_brava.webp)
+![costa brava](costa_brava.webp#light)
