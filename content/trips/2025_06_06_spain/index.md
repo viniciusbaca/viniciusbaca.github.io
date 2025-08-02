@@ -51,7 +51,7 @@ I opened some websites to schedule a tour, and found one that was 10am, reserved
 
 So by 4:30am I reserved a rental car for 8am at the airport, so I could wake up at 7am and get a Uber until there, and then drive ~1hour until Costa Brava to kayak for 2h :)
 
-![costa brava](costa_brava.webp#light)
+![costa brava](costa_brava.webp)
 
 Was a really cool experience, and when I got back to Barcelona, the hostel people were warming up for getting into a pride parade that was 1h to the South of Barcelona, and well, I just went with them to fully enjoy my last day of Barcelona.
 
