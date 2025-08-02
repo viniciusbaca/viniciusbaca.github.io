@@ -19,7 +19,7 @@ Barcelona was the reason of my entire eurotrip. Initially me, my brother and my 
 
 Luckily I had the *exact* time off from work to attend the congress and later meet my family in Cusco. So it started the 3 weeks trip from Europe until Peru.
 
-![bunkers](bunkers.webp#light)
+![bunkers](bunkers.webp)
 
 ## Congress
 The congress, along with the short Camino Inca in Peru, was the only appointment I had in the entire vacation. I could (and wanted) to change destinations, hostels, tours, whatever, but those two were my responsability to attend.
