@@ -14,6 +14,6 @@ showTags: false
 fediverse: "@username@instance.url"
 ---
 
-## Introductiokkkkkkn
+## Introduction
 
 dolomites and san marche
